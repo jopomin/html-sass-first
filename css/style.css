@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Khula", sans-serif;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: #306666;
+}
+
+.subtitle {
+  font-size: 24px;
+  font-weight: 600;
+  color: #0e1f1f;
+}
+
+h2 {
+  margin: 50px 0 20px;
+  font-size: 40px;
+  color: #bb3020;
+}
+
+.slide-text {
+  color: #661000;
+}
+
+button {
+  cursor: pointer;
+  background: green;
+  color: #fff;
+  font-weight: 600;
+  padding: 15px 22px;
+  border-radius: 10px;
+  margin: 15px;
+}
